@@ -5,7 +5,7 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <p align="center">
-  <strong>LOK'TAR OGAR! VICTORY OR DEATH!</strong>
+  <strong>LOK'TAR OGAR!</strong>
 </p>
  
 <p align="center">
