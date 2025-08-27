@@ -24,7 +24,7 @@
 ![Texto alternativo](https://github.com/usuario/repositorio/raw/rama/ruta/imagen.ext)
 
 # Ejemplo práctico:
-![Logo Horda](https://github.com/tuusuario/turepositorio/raw/main/images/horda-logo.png)
+![Logo Horda]([https://github.com/tuusuario/turepositorio/raw/main/images/horda-logo.png](https://wow-archive.fandom.com/es/wiki/Horda?file=Lahorda.jpg))
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
