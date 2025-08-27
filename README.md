@@ -24,13 +24,15 @@
 
 
 <p align="center">
-  <!-- Espada animada -->
-  <img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif" width="100" />
-  
-  <!-- Escudo animado -->
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="100" />
+  <!-- Espada y escudo con badges animados -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Espada-JavaScript-FF6B00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Escudo-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+  </a>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend;Luchando+con+el+código+%F0%9F%8F%81;Escudo:+HTML5+y+CSS3;Espada:+JavaScript+%F0%9F%94%AA" alt="Texto animado" />
-</h3>
+<p align="center">
+  ⚔️🛡️ ⚔️🛡️ ⚔️🛡️ ⚔️🛡️ ⚔️🛡️
+</p>
