@@ -32,12 +32,7 @@
 <h3 align="center">
   🏰 Bienvenido a mi Reino de Código 🏰
 </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif](https://i.redd.it/5dxdg639pubb1.gif" width="80" />
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif" width="80" />
-</p>
+ 
 
 <p align="center">
   <strong>⚔️ Mi equipamiento de desarrollo:</strong>
