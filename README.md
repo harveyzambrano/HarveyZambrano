@@ -5,12 +5,7 @@
 <p align="center">
   <!-- Representación de un orco con hacha usando texto -->
   <pre align="center">
-    ██████╗ ██████╗  ██████╗      ██╗███████╗
-   ██╔═══██╗██╔══██╗██╔═══██╗     ██║██╔════╝
-   ██║   ██║██████╔╝██║   ██║     ██║███████╗
-   ██║   ██║██╔══██╗██║   ██║██   ██║╚════██║
-   ╚██████╔╝██║  ██║╚██████╔╝╚█████╔╝███████║
-    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝
+<img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif](https://i.redd.it/5dxdg639pubb1.gif" width="80" />
   </pre>
 </p>
 
