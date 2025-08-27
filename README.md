@@ -21,7 +21,7 @@
 </p>
 
 # Formato general:
-![Texto alternativo](https://github.com/usuario/repositorio/raw/rama/ruta/imagen.ext)
+![Texto alternativo]([https://github.com/usuario/repositorio/raw/rama/ruta/imagen.ext](https://static.wikia.nocookie.net/wow/images/a/a0/Lahorda.jpg/revision/latest?cb=20141121193447&path-prefix=es))
 
 # Ejemplo práctico:
 ![Logo Horda]([https://github.com/tuusuario/turepositorio/raw/main/images/horda-logo.png](https://wow-archive.fandom.com/es/wiki/Horda?file=Lahorda.jpg))
