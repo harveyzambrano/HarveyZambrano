@@ -40,7 +40,7 @@
 
 <p align="center">
   • <strong>Espada Principal:</strong> JavaScript<br/>
-  • <strong>Escudo Defensivo:</strong> TypeScript<br/>
+  • <strong>Escudo Defensivo:</strong> HTML xD<br/>
   • <strong>Armadura:</strong> React + CSS<br/>
   • <strong>Hechizos:</strong> Node.js y Express
 </p>
