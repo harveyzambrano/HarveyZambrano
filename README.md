@@ -1,6 +1,18 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%91%8B+Soy+Harvey;Desarrollador+Web;Apasionado+por+la+Tecnolog%C3%ADa+y+jugar+World+of+War+Craft" alt="Texto animado que dice mi nombre y titulos" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+Soy+[Tu+Nombre];Desarrollador+Web;Apasionado+por+la+Tecnolog%C3%ADa;Y+World+of+Warcraft+%F0%9F%8F%81" alt="Texto animado" />
+</p>
+
+<p align="center">
+  <!-- Representación de un orco con hacha usando texto -->
+  <pre align="center">
+    ██████╗ ██████╗  ██████╗      ██╗███████╗
+   ██╔═══██╗██╔══██╗██╔═══██╗     ██║██╔════╝
+   ██║   ██║██████╔╝██║   ██║     ██║███████╗
+   ██║   ██║██╔══██╗██║   ██║██   ██║╚════██║
+   ╚██████╔╝██║  ██║╚██████╔╝╚█████╔╝███████║
+    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝
+  </pre>
+</p>
 
 <p align="center">
   <a href="[Tu LinkedIn]">
@@ -9,12 +21,14 @@
   <a href="mailto:[tu-email]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="[Tu GitHub]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-## 📊 Mis Estadísticas
-
-<!-- Esto genera unas estadísticas con una animación de progreso -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_NOMBRE_DE_USUARIO&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-
-<!-- Gráfico de lenguajes más usados (se actualiza solo) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
