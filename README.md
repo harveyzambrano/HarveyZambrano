@@ -24,16 +24,27 @@
 </p>
 
 
+<h3 align="center">
+  🏰 Bienvenido a mi Reino de Código 🏰
+</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif" width="50" />
-  <strong>Tecnologías que domino:</strong>
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif" width="80" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <strong>⚔️ Mi equipamiento de desarrollo:</strong>
+</p>
+
+<p align="center">
+  • <strong>Espada Principal:</strong> JavaScript<br/>
+  • <strong>Escudo Defensivo:</strong> TypeScript<br/>
+  • <strong>Armadura:</strong> React + CSS<br/>
+  • <strong>Hechizos:</strong> Node.js y Express
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
 </p>
