@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%91%8B+Soy+[Harvey];Desarrollador+Web;Apasionado+por+la+Tecnolog%C3%ADa" alt="Texto animado que dice mi nombre y titulos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=500&lines=Hola+%F0%9F%91%8B+Soy+Harvey;Desarrollador+Web;Apasionado+por+la+Tecnolog%C3%ADa+y+jugar+World+of+War+Craft" alt="Texto animado que dice mi nombre y titulos" />
 </h3>
 
 <p align="center">
