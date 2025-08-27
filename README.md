@@ -50,6 +50,4 @@
   • <strong>Hechizos:</strong> Node.js y Express
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
-</p>
+ 
