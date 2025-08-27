@@ -3,12 +3,22 @@
 </p>
 
 <p align="center">
-  <!-- Representación de un orco con hacha usando texto -->
   <pre align="center">
-<img src="https://media.giphy.com/media/l0HlG8vJXW0X5yq4o/giphy.gif](https://i.redd.it/5dxdg639pubb1.gif" width="80" />
+   ▄████████  ▄█        ▄█    █▄     ▄████████ 
+  ███    ███ ███       ███    ███   ███    ███ 
+  ███    █▀  ███       ███    ███   ███    ███ 
+ ▄███▄▄▄     ███       ███    ███  ▄███▄▄▄▄██▀ 
+▀▀███▀▀▀     ███       ███    ███ ▀▀███▀▀▀▀▀   
+  ███        ███       ███    ███ ▀███████████ 
+  ███        ███▌    ▄ ███    ███   ███    ███ 
+  ███        █████▄▄██  ▀██████▀    ███    ███ 
+                 ▀                 ███    ███ 
   </pre>
 </p>
 
+<p align="center">
+  <strong>LOK'TAR OGAR! VICTORY OR DEATH!</strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
