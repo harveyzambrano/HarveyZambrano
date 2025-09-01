@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+Soy+Harvey;Desarrollador+Web;Apasionado+por+la+Tecnolog%C3%ADa;Y+World+of+Warcraft+%F0%9F%8F%81" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BCBA&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+Soy+Harvey;Físico+y+Desarrollador+Web;Apasionado+por+la+Tecnolog%C3%ADa;Y+World+of+Warcraft+%F0%9F%8F%81" alt="Texto animado" />
 </p>
 
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
